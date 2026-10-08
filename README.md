@@ -10,6 +10,19 @@ Je ne cherche pas à empiler des démonstrations d'IA. Je construis des outils.
 
 **[Portfolio en ligne — démonstrations, captures et preuves techniques](https://christopher-crahay.vercel.app/)** · [CV](https://christopher-crahay.vercel.app/cv)
 
+## Démonstrations et preuves publiques — à consulter en premier
+
+Ces liens mènent à des **réalisations observables** : vidéos du produit et du robot, captures de code authentique, consoles de tests et images d'une simulation Godot. Les dépôts publics sont des **vitrines documentaires**, pas les sources de production.
+
+| Projet | Preuves accessibles | Ce que l'on peut réellement vérifier |
+| --- | --- | --- |
+| **ArtisanFlow** | **[Voir la vidéo de l'application](https://christopher-crahay.vercel.app/work/artisanflow)** | Parcours devis → lien de signature → signature client → statut signé. **Distribution Google Play en test privé**, réservée aux testeurs, **pas une publication publique**. Le film ne prouve pas la synchronisation hors ligne. |
+| **SYM** | **[Voir le robot en vidéo](https://christopher-crahay.vercel.app/work/sym)** · **[TikTok @symrobot](https://www.tiktok.com/@symrobot)** | Réponse vocale d'un prototype physique, animation de la mâchoire et autres vidéos du projet. Pas de banc de tests matériels reproductible publié. |
+| **LOCAL_AGENTS + Neurobase** | **[Voir le code réel et les résultats de tests](https://christopher-crahay.vercel.app/work/local-agents)** | Quatre captures de code authentique ; consoles de **266 tests LOCAL_AGENTS réussis** sur l'arbre commité `136db6c` et **105 tests NEUROBASE réussis** sur `1f515df`. Ces résultats ne couvrent pas l'arbre courant et les suites exécutables restent privées. |
+| **AFTER** | **[Voir les captures du jeu et des tests](https://christopher-crahay.vercel.app/work/after)** | Six captures d'une vraie scène Godot, plus un relevé de deux suites isolées (30/0 et 14/0). Les entrées de jeu étaient injectées par script ; ce n'est ni une session jouée à la main ni une revalidation complète. |
+
+**Périmètre :** les vidéos et captures montrent des éléments concrets, mais ne remplacent ni une revue de code confidentielle ni une exécution indépendante des tests. Le [parcours d'examen technique](AUDIT.md) explicite cette distinction.
+
 ## Projets sélectionnés
 
 ### [ArtisanFlow](https://github.com/christophercrahay-cmyk/artisanflow-showcase)
