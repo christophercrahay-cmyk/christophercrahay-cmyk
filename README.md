@@ -17,6 +17,8 @@ Application métier mobile pensée à partir des contraintes réelles d'un artis
 
 **React Native · Expo · Supabase · transcription vocale · IA · données métier**
 
+**Distribution Android : Google Play, canal de test privé (accès réservé aux testeurs ; application non publiée publiquement).**
+
 [Démo et étude de cas ArtisanFlow](https://christopher-crahay.vercel.app/work/artisanflow)
 
 ### [SYM](https://github.com/christophercrahay-cmyk/Sym-showcase)
