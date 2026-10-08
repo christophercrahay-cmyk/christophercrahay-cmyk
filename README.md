@@ -8,6 +8,8 @@ Mon parcours vient du terrain : artisan du bâtiment, électricité, plomberie, 
 
 Je ne cherche pas à empiler des démonstrations d'IA. Je construis des outils.
 
+**[Portfolio en ligne — démonstrations, captures et preuves techniques](https://christopher-crahay.vercel.app/)** · [CV](https://christopher-crahay.vercel.app/cv)
+
 ## Projets sélectionnés
 
 ### [ArtisanFlow](https://github.com/christophercrahay-cmyk/artisanflow-showcase)
@@ -15,24 +17,32 @@ Application métier mobile pensée à partir des contraintes réelles d'un artis
 
 **React Native · Expo · Supabase · transcription vocale · IA · données métier**
 
+[Démo et étude de cas ArtisanFlow](https://christopher-crahay.vercel.app/work/artisanflow)
+
 ### [SYM](https://github.com/christophercrahay-cmyk/Sym-showcase)
 Prototype d'IA incarnée reliant voix, vision, agents logiciels, électronique embarquée et robotique.
 
 **Agents IA · vision · STT/TTS · ESP32 · InMoov · impression 3D**
+
+[Démo vidéo SYM](https://christopher-crahay.vercel.app/work/sym)
 
 ### [LOCAL_AGENTS + Neurobase](https://github.com/christophercrahay-cmyk/local-agents-neurobase-showcase)
 Expérimentation autour de l'orchestration d'agents, de l'inférence locale, de la mémoire externe et de la recherche hybride.
 
 **Python · FastAPI · Ollama · Pydantic · SQLite · FTS5 · embeddings · RAG**
 
+[Code réel et tests datés LOCAL_AGENTS / Neurobase](https://christopher-crahay.vercel.app/work/local-agents)
+
 ### [AFTER](https://github.com/christophercrahay-cmyk/after-showcase)
 Simulation systémique sous Godot autour de la récupération, de la fabrication, de la robotique et de l'automatisation.
 
 **Godot · simulation · agents · navigation · crafting · pipeline 3D · tests**
 
-## Vérification technique
+[Captures du jeu et tests AFTER](https://christopher-crahay.vercel.app/work/after)
 
-Les descriptions ne constituent pas des preuves. Une [carte de vérification publique](AUDIT.md) permet d'examiner les frontières techniques, les éléments observables et les limites des projets. Elle distingue explicitement documentation, démonstration et validation reproductible.
+## Technical review — vérification des preuves
+
+Les démonstrations et captures liées ci-dessus donnent accès à des **observations publiques**, pas au code complet des projets privés. Une [carte de vérification](AUDIT.md) permet d'examiner les frontières techniques, les limites et le niveau réel de preuve, sans confondre documentaire, tests datés et validation reproductible.
 
 ## Ma façon de travailler
 
@@ -65,10 +75,6 @@ Je travaille particulièrement sur les zones où plusieurs disciplines doivent c
 ## Ce que je cherche
 
 Des problèmes concrets où l'IA doit sortir du prototype pour devenir un **système réellement utile** : intégration IA, automatisation, outils métier, agents, prototypes ou projets mêlant logiciel et monde physique.
-
-## Technical review
-
-For technical reviewers and recruiters: [structured evidence map](AUDIT.md). It distinguishes architectural claims, public observations and evidence that still requires a live demonstration.
 
 ---
 
