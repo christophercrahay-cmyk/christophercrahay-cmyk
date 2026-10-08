@@ -26,7 +26,7 @@ Prototype d'IA incarnée reliant voix, vision, agents logiciels, électronique e
 
 **Agents IA · vision · STT/TTS · ESP32 · InMoov · impression 3D**
 
-[Démo vidéo SYM](https://christopher-crahay.vercel.app/work/sym)
+[Démo vidéo SYM](https://christopher-crahay.vercel.app/work/sym) · [TikTok du projet SYM (@symrobot)](https://www.tiktok.com/@symrobot)
 
 ### [LOCAL_AGENTS + Neurobase](https://github.com/christophercrahay-cmyk/local-agents-neurobase-showcase)
 Expérimentation autour de l'orchestration d'agents, de l'inférence locale, de la mémoire externe et de la recherche hybride.
