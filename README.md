@@ -100,6 +100,5 @@ Des problèmes concrets où l'IA doit sortir du prototype pour devenir un **syst
 
 ---
 
-> `review_status: evidence_map`
 
 <sub>Les dépôts publics présentés ici sont des vitrines techniques. Les sources de production, données privées, secrets, prompts internes et implémentations propriétaires restent volontairement privés.</sub>
