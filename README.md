@@ -30,6 +30,10 @@ Simulation systémique sous Godot autour de la récupération, de la fabrication
 
 **Godot · simulation · agents · navigation · crafting · pipeline 3D · tests**
 
+## Vérification technique
+
+Les descriptions ne constituent pas des preuves. Une [carte de vérification publique](AUDIT.md) permet d'examiner les frontières techniques, les éléments observables et les limites des projets. Elle distingue explicitement documentation, démonstration et validation reproductible.
+
 ## Ma façon de travailler
 
 ```text
