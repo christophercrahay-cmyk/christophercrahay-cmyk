@@ -14,6 +14,13 @@ Je ne cherche pas à empiler des démonstrations d'IA. Je construis des outils.
 
 Ces liens mènent à des **réalisations observables** : vidéos du produit et du robot, captures de code authentique, consoles de tests et images d'une simulation Godot. Les dépôts publics sont des **vitrines documentaires**, pas les sources de production.
 
+### PROOF-01 — Comment neuf tests peuvent-ils réussir alors qu'un vérificateur accepte 42 pour « 5 + 6 » ?
+
+Une [miniature Python publiquement exécutable](https://github.com/christophercrahay-cmyk/local-agents-neurobase-showcase/blob/main/proof_01.py) reproduit **volontairement** un faux accord : un outil calcule `6 × 7` et une règle défectueuse accepte `42`, alors que la demande est `5 + 6`. Une règle illustrative renforcée refuse ce résultat. **[Voir les 9 tests exécutés sur GitHub Actions](https://github.com/christophercrahay-cmyk/local-agents-neurobase-showcase/actions/runs/37807802556)** · [Lire l'explication et les limites](https://github.com/christophercrahay-cmyk/local-agents-neurobase-showcase/blob/main/PROOF_01.md).
+
+**À ne pas confondre :** cette reproduction indépendante a été écrite pour la vitrine ; elle **n'exécute pas le code privé de LOCAL_AGENTS** et ne démontre pas à elle seule la correction de son vérificateur réel.
+
+
 | Projet | Preuves accessibles | Ce que l'on peut réellement vérifier |
 | --- | --- | --- |
 | **ArtisanFlow** | **[Voir la vidéo de l'application](https://christopher-crahay.vercel.app/work/artisanflow)** | Parcours devis → lien de signature → signature client → statut signé. **Distribution Google Play en test privé**, réservée aux testeurs, **pas une publication publique**. Le film ne prouve pas la synchronisation hors ligne. |
