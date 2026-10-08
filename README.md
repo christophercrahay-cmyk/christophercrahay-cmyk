@@ -62,8 +62,12 @@ Je travaille particulièrement sur les zones où plusieurs disciplines doivent c
 
 Des problèmes concrets où l'IA doit sortir du prototype pour devenir un **système réellement utile** : intégration IA, automatisation, outils métier, agents, prototypes ou projets mêlant logiciel et monde physique.
 
+## Technical review
+
+For technical reviewers and recruiters: [structured evidence map](AUDIT.md). It distinguishes architectural claims, public observations and evidence that still requires a live demonstration.
+
 ---
 
-> `review_status: [evidence_map](AUDIT.md)`
+> `review_status: evidence_map`
 
 <sub>Les dépôts publics présentés ici sont des vitrines techniques. Les sources de production, données privées, secrets, prompts internes et implémentations propriétaires restent volontairement privés.</sub>
